@@ -1,2 +1,2 @@
-# fundaneed_chatbot
-A chat bot for my NGO's website (The FundANeed Foundation - fundaneed.in) to improve user experience
+# Chat Bot - FundANeed Foundation (fundaneed.in)
+A chat bot for my NGO's website to improve user experience
